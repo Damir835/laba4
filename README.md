@@ -108,25 +108,26 @@
 <img width="799" height="261" alt="image" src="https://github.com/user-attachments/assets/f11af890-b328-43ba-95c0-02c7437b4ddb" />
 
 ### 3. Геттеры и сеттеры
-<img src="ССЫЛКА_НА_ТЕСТ_3" alt="Тест 3" width="100%">
+<img width="632" height="221" alt="image" src="https://github.com/user-attachments/assets/997c37ab-b87c-46b0-a64e-a37b377eba3b" />
 
 ### 4. Префиксные и постфиксные ++ и --
-<img src="ССЫЛКА_НА_ТЕСТ_4" alt="Тест 4" width="100%">
+<img width="831" height="321" alt="image" src="https://github.com/user-attachments/assets/3cb7229b-3afa-4daf-a367-1bfccbc388e4" />
 
 ### 5. Приведение к double (дискриминант) и bool
-<img src="ССЫЛКА_НА_ТЕСТ_5" alt="Тест 5" width="100%">
+<img width="698" height="209" alt="image" src="https://github.com/user-attachments/assets/d0bb001c-1a90-45ab-b83d-0eedb41d2dd3" />
 
 ### 6. Сравнение уравнений (== и !=)
-<img src="ССЫЛКА_НА_ТЕСТ_6" alt="Тест 6" width="100%">
+<img width="650" height="365" alt="image" src="https://github.com/user-attachments/assets/c9b6d454-e27d-4b21-9692-2480e51a92f1" />
 
 ### 7. Создание копии уравнения (конструктор копирования)
-<img src="ССЫЛКА_НА_ТЕСТ_7" alt="Тест 7" width="100%">
+<img width="695" height="261" alt="image" src="https://github.com/user-attachments/assets/23689581-93b4-4a8e-ac35-8299ab309829" />
 
 ### 8. Создание уравнения (конструктор по умолчанию)
-<img src="ССЫЛКА_НА_ТЕСТ_8" alt="Тест 8" width="100%">
+<img width="721" height="265" alt="image" src="https://github.com/user-attachments/assets/5f4ea0e0-37c6-47cb-92b8-b192118fbdec" />
 
 ### 9. Проверка некорректного ввода
-<img src="ССЫЛКА_НА_ТЕСТ_9" alt="Тест 9" width="100%">
+<img width="741" height="426" alt="image" src="https://github.com/user-attachments/assets/3287165c-e18c-40bb-850e-9f399831bcf2" />
+
 </td>
 </tr>
 </table>
