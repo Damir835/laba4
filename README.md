@@ -105,7 +105,7 @@
 <img src="https://github.com/user-attachments/assets/ec0aa213-5578-4458-9616-1edd76baeb2d" alt="Тест 1" width="100%">
 
 ### 2. Проверка геттеров и сеттеров
-<img width="1272" height="408" alt="Снимок экрана 2026-11-18 202340" src="https://github.com/user-attachments/assets/f0745a3b-0002-40cd-8bb7-b6de63181875" />
+<img width="799" height="261" alt="image" src="https://github.com/user-attachments/assets/f11af890-b328-43ba-95c0-02c7437b4ddb" />
 
 ### 3. Геттеры и сеттеры
 <img src="ССЫЛКА_НА_ТЕСТ_3" alt="Тест 3" width="100%">
