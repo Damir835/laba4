@@ -101,47 +101,32 @@
 
 # Тестирование
 
-<table>
-<tr>
-<td align="center" valign="top" width="33%">
-<b>1. Ввод уравнения (конструктор с параметрами)</b><br><br>
+### 1. Ввод уравнения (конструктор с параметрами)
 <img src="https://github.com/user-attachments/assets/ec0aa213-5578-4458-9616-1edd76baeb2d" alt="Тест 1" width="100%">
-</td>
-<td align="center" valign="top" width="33%">
-<b>2. Вычисление корней (метод FindRoots)</b><br><br>
-<img src="ССЫЛКА_2" alt="Тест 2" width="100%">
-</td>
-<td align="center" valign="top" width="33%">
-<b>3. Геттеры и сеттеры</b><br><br>
-<img src="ССЫЛКА_3" alt="Тест 3" width="100%">
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="33%">
-<b>4. Префиксные и постфиксные ++ и --</b><br><br>
-<img src="ССЫЛКА_4" alt="Тест 4" width="100%">
-</td>
-<td align="center" valign="top" width="33%">
-<b>5. Приведение к double (дискриминант) и bool</b><br><br>
-<img src="ССЫЛКА_5" alt="Тест 5" width="100%">
-</td>
-<td align="center" valign="top" width="33%">
-<b>6. Сравнение уравнений (== и !=)</b><br><br>
-<img src="ССЫЛКА_6" alt="Тест 6" width="100%">
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="33%">
-<b>7. Создание копии уравнения (конструктор копирования)</b><br><br>
-<img src="ССЫЛКА_7" alt="Тест 7" width="100%">
-</td>
-<td align="center" valign="top" width="33%">
-<b>8. Создание уравнения (конструктор по умолчанию)</b><br><br>
-<img src="ССЫЛКА_8" alt="Тест 8" width="100%">
-</td>
-<td align="center" valign="top" width="33%">
-<b>9. Проверка некорректного ввода</b><br><br>
-<img src="ССЫЛКА_9" alt="Тест 9" width="100%">
+
+### 2. Вычисление корней (метод FindRoots)
+<img src="ССЫЛКА_НА_ТЕСТ_2" alt="Тест 2" width="100%">
+
+### 3. Геттеры и сеттеры
+<img src="ССЫЛКА_НА_ТЕСТ_3" alt="Тест 3" width="100%">
+
+### 4. Префиксные и постфиксные ++ и --
+<img src="ССЫЛКА_НА_ТЕСТ_4" alt="Тест 4" width="100%">
+
+### 5. Приведение к double (дискриминант) и bool
+<img src="ССЫЛКА_НА_ТЕСТ_5" alt="Тест 5" width="100%">
+
+### 6. Сравнение уравнений (== и !=)
+<img src="ССЫЛКА_НА_ТЕСТ_6" alt="Тест 6" width="100%">
+
+### 7. Создание копии уравнения (конструктор копирования)
+<img src="ССЫЛКА_НА_ТЕСТ_7" alt="Тест 7" width="100%">
+
+### 8. Создание уравнения (конструктор по умолчанию)
+<img src="ССЫЛКА_НА_ТЕСТ_8" alt="Тест 8" width="100%">
+
+### 9. Проверка некорректного ввода
+<img src="ССЫЛКА_НА_ТЕСТ_9" alt="Тест 9" width="100%">
 </td>
 </tr>
 </table>
