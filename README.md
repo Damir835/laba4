@@ -105,8 +105,7 @@
 <tr>
 <td align="center" valign="top" width="33%">
 <b>1. Ввод уравнения (конструктор с параметрами)</b><br><br>
-<img src="img width="620" height="179" alt="image" src="https://github.com/user-attachments/assets/ec0aa213-5578-4458-9616-1edd76baeb2d" /
-" alt="Тест 1" width="100%">
+<img src="https://github.com/user-attachments/assets/ec0aa213-5578-4458-9616-1edd76baeb2d" alt="Тест 1" width="100%">
 </td>
 <td align="center" valign="top" width="33%">
 <b>2. Вычисление корней (метод FindRoots)</b><br><br>
