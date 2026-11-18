@@ -105,8 +105,8 @@
 <img src="https://github.com/user-attachments/assets/ec0aa213-5578-4458-9616-1edd76baeb2d" alt="Тест 1" width="100%">
 
 ### 2. Вычисление корней (метод FindRoots)
-<img src="<img width="640" height="260" alt="image" src="https://github.com/user-attachments/assets/bddb7661-582c-4c30-be80-f38142769bc6" />
-" alt="Тест 2" width="100%">
+<img width="1272" height="408" alt="Снимок экрана 2026-11-18 202340" src="https://github.com/user-attachments/assets/6dfce2c7-27d8-436e-aa26-f387dc6ba929" />
+
 
 ### 3. Геттеры и сеттеры
 <img src="ССЫЛКА_НА_ТЕСТ_3" alt="Тест 3" width="100%">
